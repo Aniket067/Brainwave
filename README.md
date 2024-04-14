@@ -42,13 +42,14 @@ To set up your local development environment, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/brainwave.git
+   ```bash
 2. Navigate to the project directory:
    cd brainwave
 3.Install dependencies:
    npm install
 4.Start the development server:
   npm run dev
-After starting the server, visit http://localhost:5173 to view the project in your browser ```bash
+After starting the server, visit http://localhost:5173 to view the project in your browser 
 
 ## Built With
 
