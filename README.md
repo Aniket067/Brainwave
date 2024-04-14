@@ -48,7 +48,7 @@ To set up your local development environment, follow these steps:
    npm install
 4.Start the development server:
   npm run dev
-After starting the server, visit http://localhost:5173 to view the project in your browser
+After starting the server, visit http://localhost:5173 to view the project in your browser ```bash
 
 ## Built With
 
