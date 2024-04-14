@@ -1,17 +1,9 @@
+# [Brainwave](https://aniket067.github.io/Brainwave/)
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Brainwave
 
 Welcome to the "Brainwave" repository, a state-of-the-art front-end website crafted with React and styled using TailwindCSS. This project is powered by Vite, ensuring fast development and production builds. It embodies cutting-edge UI/UX design principles with interactive and responsive user experiences, ideal for showcasing innovative design elements.
 
+![Screenshot 2024-04-14 171757](https://github.com/Aniket067/Brainwave/assets/116525490/7a56d97c-3be1-40ef-b484-c977b2dfc408)
 ## Features
 
 "Brainwave" includes a rich set of features that enhance its appeal and usability:
@@ -39,27 +31,32 @@ Before you begin, ensure you have the following installed:
 
 To set up your local development environment, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/brainwave.git
-   
-2. Navigate to the project directory:
-    ```bash
-   cd brainwave
-3.Install dependencies:
-   ```bash
-   npm install
-4.Start the development server:
-   ```bash
-  npm run dev
+#### 1.Clone the repository:
+```bash
+git clone https://github.com/yourusername/brainwave.git
+```
+#### 2.Navigate to the project directory:
+```bash
+cd brainwave
+```
+#### 3.Install Node modules:
+```bash
+npm install
+```
+#### 4.Run the development server:
+```bash
+npm run dev
+```
+After starting the server, visit http://localhost:5173 to view the project in your browser.
 
-After starting the server, visit http://localhost:5173 to view the project in your browser 
+### Built With
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
+- [Vite](https://vitejs.dev/) - Modern front-end build tool.
+- [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.
 
-## Built With
+### React + Vite
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Currently, two official plugins are available:
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
-
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
